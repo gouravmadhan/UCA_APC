@@ -1,2 +1,1 @@
-# Poker
-game 
+UCA Practise Code
